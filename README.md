@@ -99,7 +99,10 @@ print(f"Predicted Label: {label}")
 ```
 
 📷 Sample Output
-![Sample Prediction]("C:\Users\Admin\Documents\GitHub\Cats-vs-Dogs_Image_Classification_DL_CNN\sample.png")
+
+<p align="center">
+  <img width="398" height="449" alt="image" src="https://github.com/user-attachments/assets/a151733b-2357-410a-8ac6-42fb8dda0ee4" />
+</p>
 
 📜 License
 
