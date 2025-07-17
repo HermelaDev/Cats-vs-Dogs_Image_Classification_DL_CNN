@@ -1,4 +1,7 @@
-![DOG vs CAT]("C:\Users\Admin\Documents\GitHub\Cats-vs-Dogs_Image_Classification_DL_CNN\DOG_vs_CAT.png")
+<p align="center">
+  <img src="https://github.com/HermelaDev/Cats-vs-Dogs_Image_Classification_DL_CNN/blob/main/DOG_vs_CAT.png?raw=true" alt="DOG vs CAT" width="400"/>
+</p>
+
 # Cats-vs-Dogs-Image-Classification-CNN-Deep-Learning-Project
 
 This project is a binary image classification model that distinguishes between images of **dogs** and **cats** using a Convolutional Neural Network (CNN) built with TensorFlow and Keras.
